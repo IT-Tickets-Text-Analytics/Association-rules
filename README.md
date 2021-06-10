@@ -1,0 +1,2 @@
+# Association-rules
+Association rules aim to provide a decision support to a process worker in a form of tasks sets based on the incoming ticket. The association rules are applied using the arules package to determine possible sets of task types and subtypes (rule body, i.e., consequent) based on the ticket type, Decision-Making Logic of ticket activity, and Business Sentiment (rule head, i.e., condition).
